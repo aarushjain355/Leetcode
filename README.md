@@ -34,14 +34,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/aarushjain355/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0871-keys-and-rooms](https://github.com/aarushjain355/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/aarushjain355/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0871-keys-and-rooms](https://github.com/aarushjain355/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/aarushjain355/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Graph
 |  |
 | ------- |
+| [0871-keys-and-rooms](https://github.com/aarushjain355/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/aarushjain355/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
 |  |
