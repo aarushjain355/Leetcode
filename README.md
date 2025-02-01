@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/aarushjain355/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/aarushjain355/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
@@ -58,8 +59,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/aarushjain355/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/aarushjain355/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/aarushjain355/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/aarushjain355/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/aarushjain355/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
