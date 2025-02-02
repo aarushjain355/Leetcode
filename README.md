@@ -23,6 +23,7 @@ My leetcode solutions!
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aarushjain355/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0136-single-number](https://github.com/aarushjain355/Leetcode/tree/master/0136-single-number) |
 ## Bit Manipulation
 |  |
@@ -65,6 +66,7 @@ My leetcode solutions!
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aarushjain355/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/aarushjain355/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Tree
 |  |
