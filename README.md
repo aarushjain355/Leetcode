@@ -24,6 +24,7 @@ My leetcode solutions!
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aarushjain355/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0134-gas-station](https://github.com/aarushjain355/Leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/aarushjain355/Leetcode/tree/master/0136-single-number) |
 ## Bit Manipulation
 |  |
@@ -102,6 +103,7 @@ My leetcode solutions!
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/aarushjain355/Leetcode/tree/master/0134-gas-station) |
 | [0397-integer-replacement](https://github.com/aarushjain355/Leetcode/tree/master/0397-integer-replacement) |
 ## Memoization
 |  |
