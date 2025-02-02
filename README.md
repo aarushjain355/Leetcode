@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/aarushjain355/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/aarushjain355/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/aarushjain355/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0397-integer-replacement](https://github.com/aarushjain355/Leetcode/tree/master/0397-integer-replacement) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -91,4 +92,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aarushjain355/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/aarushjain355/Leetcode/tree/master/0397-integer-replacement) |
+## Greedy
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/aarushjain355/Leetcode/tree/master/0397-integer-replacement) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/aarushjain355/Leetcode/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
