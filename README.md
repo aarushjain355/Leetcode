@@ -91,6 +91,7 @@ My leetcode solutions!
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/aarushjain355/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aarushjain355/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Dynamic Programming
 |  |
@@ -104,4 +105,8 @@ My leetcode solutions!
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/aarushjain355/Leetcode/tree/master/0397-integer-replacement) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/aarushjain355/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
