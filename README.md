@@ -24,6 +24,7 @@ My leetcode solutions!
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aarushjain355/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/aarushjain355/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/aarushjain355/Leetcode/tree/master/0075-sort-colors) |
 | [0134-gas-station](https://github.com/aarushjain355/Leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/aarushjain355/Leetcode/tree/master/0136-single-number) |
@@ -69,6 +70,7 @@ My leetcode solutions!
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aarushjain355/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/aarushjain355/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/aarushjain355/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Tree
 |  |
@@ -122,4 +124,8 @@ My leetcode solutions!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aarushjain355/Leetcode/tree/master/0075-sort-colors) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/aarushjain355/Leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
