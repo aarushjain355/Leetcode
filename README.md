@@ -13,6 +13,7 @@ My leetcode solutions!
 | ------- |
 | [0013-roman-to-integer](https://github.com/aarushjain355/Leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/aarushjain355/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/aarushjain355/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## String
 |  |
 | ------- |
@@ -32,6 +33,7 @@ My leetcode solutions!
 | [0134-gas-station](https://github.com/aarushjain355/Leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/aarushjain355/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/aarushjain355/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/aarushjain355/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -133,4 +135,8 @@ My leetcode solutions!
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/aarushjain355/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/aarushjain355/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
