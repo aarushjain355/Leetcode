@@ -12,6 +12,7 @@ My leetcode solutions!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/aarushjain355/Leetcode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/aarushjain355/Leetcode/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@ My leetcode solutions!
 | [0075-sort-colors](https://github.com/aarushjain355/Leetcode/tree/master/0075-sort-colors) |
 | [0134-gas-station](https://github.com/aarushjain355/Leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/aarushjain355/Leetcode/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/aarushjain355/Leetcode/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -126,6 +128,7 @@ My leetcode solutions!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aarushjain355/Leetcode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/aarushjain355/Leetcode/tree/master/0217-contains-duplicate) |
 ## Matrix
 |  |
 | ------- |
