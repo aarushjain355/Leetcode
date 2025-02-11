@@ -7,6 +7,7 @@ My leetcode solutions!
 | [0007-reverse-integer](https://github.com/aarushjain355/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aarushjain355/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/aarushjain355/Leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/aarushjain355/Leetcode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@ My leetcode solutions!
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aarushjain355/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0066-plus-one](https://github.com/aarushjain355/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/aarushjain355/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/aarushjain355/Leetcode/tree/master/0075-sort-colors) |
 | [0134-gas-station](https://github.com/aarushjain355/Leetcode/tree/master/0134-gas-station) |
