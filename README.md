@@ -50,6 +50,7 @@ My leetcode solutions!
 | [0501-find-mode-in-binary-search-tree](https://github.com/aarushjain355/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0871-keys-and-rooms](https://github.com/aarushjain355/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/aarushjain355/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2121-find-if-path-exists-in-graph](https://github.com/aarushjain355/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -59,11 +60,13 @@ My leetcode solutions!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aarushjain355/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0871-keys-and-rooms](https://github.com/aarushjain355/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/aarushjain355/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2121-find-if-path-exists-in-graph](https://github.com/aarushjain355/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
 | ------- |
 | [0871-keys-and-rooms](https://github.com/aarushjain355/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/aarushjain355/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2121-find-if-path-exists-in-graph](https://github.com/aarushjain355/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
@@ -139,4 +142,8 @@ My leetcode solutions!
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/aarushjain355/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Union Find
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/aarushjain355/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
