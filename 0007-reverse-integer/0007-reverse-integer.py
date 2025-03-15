@@ -8,9 +8,7 @@ class Solution(object):
             negative = True
         while x > 0:
             reversed_x = reversed_x * 10 + (x % 10)
-            print(reversed_x)
-            x /= 10
-        
+            x /= 10  
         if reversed_x > 2**31 - 1:
             return 0
         if negative:
