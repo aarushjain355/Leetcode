@@ -9,12 +9,14 @@ My leetcode solutions!
 | [0013-roman-to-integer](https://github.com/aarushjain355/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/aarushjain355/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/aarushjain355/Leetcode/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/aarushjain355/Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/aarushjain355/Leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/aarushjain355/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aarushjain355/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/aarushjain355/Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -37,12 +39,14 @@ My leetcode solutions!
 | [0136-single-number](https://github.com/aarushjain355/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/aarushjain355/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aarushjain355/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/aarushjain355/Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aarushjain355/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/aarushjain355/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/aarushjain355/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/aarushjain355/Leetcode/tree/master/0268-missing-number) |
 | [0397-integer-replacement](https://github.com/aarushjain355/Leetcode/tree/master/0397-integer-replacement) |
 ## Depth-First Search
 |  |
@@ -86,6 +90,7 @@ My leetcode solutions!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aarushjain355/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/aarushjain355/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/aarushjain355/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/aarushjain355/Leetcode/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
@@ -142,6 +147,7 @@ My leetcode solutions!
 | ------- |
 | [0075-sort-colors](https://github.com/aarushjain355/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/aarushjain355/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/aarushjain355/Leetcode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
