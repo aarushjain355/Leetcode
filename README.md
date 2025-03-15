@@ -4,6 +4,7 @@ My leetcode solutions!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aarushjain355/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/aarushjain355/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aarushjain355/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/aarushjain355/Leetcode/tree/master/0013-roman-to-integer) |
@@ -118,6 +119,7 @@ My leetcode solutions!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aarushjain355/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/aarushjain355/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aarushjain355/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Dynamic Programming
@@ -136,6 +138,7 @@ My leetcode solutions!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aarushjain355/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/aarushjain355/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 ## Two Pointers
 |  |
