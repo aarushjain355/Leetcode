@@ -4,7 +4,6 @@ class Solution(object):
         sum2 = 0
         sum3 = 0
         for x in range(len(num1)):
-            print(sum1)
             sum1 = sum1 * 10 + int(num1[x])
         for x in range(len(num2)):
             sum2 = sum2 * 10 + int(num2[x])
