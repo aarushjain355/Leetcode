@@ -7,8 +7,6 @@ class Solution(object):
             sum1 = sum1 * 10 + int(num1[x])
         for x in range(len(num2)):
             sum2 = sum2 * 10 + int(num2[x])
-        print(sum1)
-        print(sum2)
         sum3 = sum1 * sum2  
         return str(sum3)
 
