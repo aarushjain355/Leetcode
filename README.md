@@ -20,6 +20,7 @@ My leetcode solutions!
 | [0217-contains-duplicate](https://github.com/aarushjain355/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aarushjain355/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/aarushjain355/Leetcode/tree/master/0268-missing-number) |
+| [0697-degree-of-an-array](https://github.com/aarushjain355/Leetcode/tree/master/0697-degree-of-an-array) |
 ## String
 |  |
 | ------- |
@@ -46,6 +47,7 @@ My leetcode solutions!
 | [0217-contains-duplicate](https://github.com/aarushjain355/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aarushjain355/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/aarushjain355/Leetcode/tree/master/0268-missing-number) |
+| [0697-degree-of-an-array](https://github.com/aarushjain355/Leetcode/tree/master/0697-degree-of-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
