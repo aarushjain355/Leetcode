@@ -8,6 +8,7 @@ My leetcode solutions!
 | [0007-reverse-integer](https://github.com/aarushjain355/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aarushjain355/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/aarushjain355/Leetcode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/aarushjain355/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/aarushjain355/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/aarushjain355/Leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/aarushjain355/Leetcode/tree/master/0268-missing-number) |
@@ -25,6 +26,7 @@ My leetcode solutions!
 | [0003-longest-substring-without-repeating-characters](https://github.com/aarushjain355/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/aarushjain355/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/aarushjain355/Leetcode/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/aarushjain355/Leetcode/tree/master/0043-multiply-strings) |
 ## Stack
 |  |
 | ------- |
@@ -167,4 +169,8 @@ My leetcode solutions!
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/aarushjain355/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/aarushjain355/Leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
