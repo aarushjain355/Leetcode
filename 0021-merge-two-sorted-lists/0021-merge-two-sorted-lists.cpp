@@ -11,53 +11,45 @@
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        ListNode* head1 = list1;
-        ListNode* head2 = list2;
-        vector<ListNode*> test;
-        bool flag1 = false;
-        bool flag2 = false;
-      
-       // ListNode* ref_copy = ref;
-        while (true) {
-            
-            if (head1 == nullptr) {
-                flag1 = true;
-            }
-            if (head2 == nullptr) {
-                flag2 = true;
-            }
-            if (flag1 && flag2) {
-                break;
-            } else if (flag1) {
-                test.push_back(head2);
-                head2 = head2->next;
-            } else if (flag2) {
-                test.push_back(head1);
-                head1 = head1->next;
-            } else {
-                if (head1->val <= head2->val) {
-                    test.push_back(head1);
-                    head1 = head1->next;
+        
+        ListNode* list1copy = list1;
+        ListNode* list2copy = list2;
+        ListNode* head = new ListNode();
+        ListNode* headcopy = head;
+        ListNode* current = new ListNode();
+        if (list1copy == nullptr) {
+            return list2copy;
+        }
+        if (list2copy == nullptr) {
+            return list1copy;
+        }
+        if (list1copy->val < list2copy->val) {
+            head->val = list1copy->val;
+            list1copy = list1copy->next;
+        } else {
+            head->val = list2copy->val;
+            list2copy = list2copy->next;
+        }
+        while (list1copy != nullptr || list2copy != nullptr) {
+            current = new ListNode();
+            if (list1copy != nullptr && list2copy != nullptr) {
+                if (list1copy->val < list2copy->val) {                   
+                    current->val = list1copy->val; 
+                    list1copy = list1copy->next;                   
                 } else {
-                    test.push_back(head2);
-                    head2 = head2->next;
+                    current->val = list2copy->val;
+                    list2copy = list2copy->next; 
                 }
+            } else if (list1copy == nullptr) {
+                current->val = list2copy->val;
+                list2copy = list2copy->next; 
+            } else {
+                current->val = list1copy->val;
+                list1copy = list1copy->next; 
             }
-
+            head->next = current;
+            head = current;
         }
-        if (test.size() == 0) {
-            return nullptr;
-        }
-        ListNode* headc = test.at(0);
-        ListNode* current = headc;
-
-        // Iterate through the vector and link the nodes
-        for (size_t i = 1; i < test.size(); ++i) {
-            current->next = test.at(i);  // Set next of current node to the next node
-            current = current->next;   // Move current to the next node
-        }
-        
-        
-        return headc;
+        return headcopy;
     }
 };
