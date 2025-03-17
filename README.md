@@ -49,6 +49,7 @@ My leetcode solutions!
 | [0219-contains-duplicate-ii](https://github.com/aarushjain355/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/aarushjain355/Leetcode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/aarushjain355/Leetcode/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/aarushjain355/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0697-degree-of-an-array](https://github.com/aarushjain355/Leetcode/tree/master/0697-degree-of-an-array) |
 ## Bit Manipulation
 |  |
@@ -184,4 +185,12 @@ My leetcode solutions!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aarushjain355/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/aarushjain355/Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/aarushjain355/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
