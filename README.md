@@ -56,6 +56,7 @@ My leetcode solutions!
 | [0349-intersection-of-two-arrays](https://github.com/aarushjain355/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/aarushjain355/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aarushjain355/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/aarushjain355/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0697-degree-of-an-array](https://github.com/aarushjain355/Leetcode/tree/master/0697-degree-of-an-array) |
 ## Bit Manipulation
 |  |
