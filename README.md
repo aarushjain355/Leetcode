@@ -53,6 +53,7 @@ My leetcode solutions!
 | [0268-missing-number](https://github.com/aarushjain355/Leetcode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/aarushjain355/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/aarushjain355/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/aarushjain355/Leetcode/tree/master/0414-third-maximum-number) |
 | [0697-degree-of-an-array](https://github.com/aarushjain355/Leetcode/tree/master/0697-degree-of-an-array) |
 ## Bit Manipulation
 |  |
@@ -170,6 +171,7 @@ My leetcode solutions!
 | [0217-contains-duplicate](https://github.com/aarushjain355/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aarushjain355/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aarushjain355/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/aarushjain355/Leetcode/tree/master/0414-third-maximum-number) |
 ## Matrix
 |  |
 | ------- |
