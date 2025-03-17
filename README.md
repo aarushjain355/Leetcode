@@ -57,6 +57,7 @@ My leetcode solutions!
 | [0414-third-maximum-number](https://github.com/aarushjain355/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aarushjain355/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/aarushjain355/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/aarushjain355/Leetcode/tree/master/0495-teemo-attacking) |
 | [0697-degree-of-an-array](https://github.com/aarushjain355/Leetcode/tree/master/0697-degree-of-an-array) |
 ## Bit Manipulation
 |  |
@@ -193,6 +194,7 @@ My leetcode solutions!
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/aarushjain355/Leetcode/tree/master/0043-multiply-strings) |
+| [0495-teemo-attacking](https://github.com/aarushjain355/Leetcode/tree/master/0495-teemo-attacking) |
 ## String Matching
 |  |
 | ------- |
