@@ -22,6 +22,7 @@ My leetcode solutions!
 | [0268-missing-number](https://github.com/aarushjain355/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aarushjain355/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aarushjain355/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/aarushjain355/Leetcode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/aarushjain355/Leetcode/tree/master/0697-degree-of-an-array) |
 ## String
 |  |
@@ -59,6 +60,7 @@ My leetcode solutions!
 | [0485-max-consecutive-ones](https://github.com/aarushjain355/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/aarushjain355/Leetcode/tree/master/0495-teemo-attacking) |
 | [0506-relative-ranks](https://github.com/aarushjain355/Leetcode/tree/master/0506-relative-ranks) |
+| [0645-set-mismatch](https://github.com/aarushjain355/Leetcode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/aarushjain355/Leetcode/tree/master/0697-degree-of-an-array) |
 ## Bit Manipulation
 |  |
@@ -68,6 +70,7 @@ My leetcode solutions!
 | [0222-count-complete-tree-nodes](https://github.com/aarushjain355/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/aarushjain355/Leetcode/tree/master/0268-missing-number) |
 | [0397-integer-replacement](https://github.com/aarushjain355/Leetcode/tree/master/0397-integer-replacement) |
+| [0645-set-mismatch](https://github.com/aarushjain355/Leetcode/tree/master/0645-set-mismatch) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -178,6 +181,7 @@ My leetcode solutions!
 | [0349-intersection-of-two-arrays](https://github.com/aarushjain355/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/aarushjain355/Leetcode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/aarushjain355/Leetcode/tree/master/0506-relative-ranks) |
+| [0645-set-mismatch](https://github.com/aarushjain355/Leetcode/tree/master/0645-set-mismatch) |
 ## Matrix
 |  |
 | ------- |
