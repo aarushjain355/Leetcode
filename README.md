@@ -58,6 +58,7 @@ My leetcode solutions!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aarushjain355/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/aarushjain355/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/aarushjain355/Leetcode/tree/master/0495-teemo-attacking) |
+| [0506-relative-ranks](https://github.com/aarushjain355/Leetcode/tree/master/0506-relative-ranks) |
 | [0697-degree-of-an-array](https://github.com/aarushjain355/Leetcode/tree/master/0697-degree-of-an-array) |
 ## Bit Manipulation
 |  |
@@ -176,6 +177,7 @@ My leetcode solutions!
 | [0268-missing-number](https://github.com/aarushjain355/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aarushjain355/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/aarushjain355/Leetcode/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/aarushjain355/Leetcode/tree/master/0506-relative-ranks) |
 ## Matrix
 |  |
 | ------- |
@@ -207,4 +209,8 @@ My leetcode solutions!
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/aarushjain355/Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/aarushjain355/Leetcode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
